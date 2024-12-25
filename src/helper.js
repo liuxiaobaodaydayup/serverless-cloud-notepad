@@ -1,4 +1,4 @@
-import jwt from '@tsndr/cloudflare-worker-jwt'
+import jwt from '@liuxiaobaodaydayup/cloudflare-worker-jwt'
 import * as TEMPL from './template'
 import { SALT, SECRET, SUPPORTED_LANG } from './constant'
 
